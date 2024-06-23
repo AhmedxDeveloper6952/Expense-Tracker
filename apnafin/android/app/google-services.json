@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452971235242",
+    "project_id": "easyfina-a064a",
+    "storage_bucket": "easyfina-a064a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452971235242:android:81e45f8dc16d634e598dd3",
+        "android_client_info": {
+          "package_name": "com.example.apnafin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlvqPbLusz1xg3vm1Kz8dRss406o7mu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
